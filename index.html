@@ -1,40 +1,84 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-      @media only screen and (max-width: 600px) {
-        img {
-          width: 100%;
-        }
-      }
-      a:visited {
-        color:  blue;
-      }
-      body {
-        padding: 2em;
-        background-color: #e9e9e9;
-        font-family: sans-serif;
-      }
-      div {
-        padding: 1em 1em;
-        max-width: 600px;
-        margin: 0 auto;
-      }
-      img, small {
-        display:  block;
-      }
-    </style>
-  </head>
-  <body>
-    <div>
-      <img src="img.png" width="450px"></img>
-      <small><i>This was colorized by a Generative model.</i></small>
-    </div>
-    <div>I have experience with all CV Deep Learning life cycle (Labeling, Modeling, Optimizing, Deploying), and I pratice basic MLOps like Hydra (configs), DVC (data versioning) and Wandb (logging).</div>
-    <div>I'm working all the time learning new architectures, but I'm more familiar and confortable with non-transformer architectures. Although I do know how to use them, I don't have experience building/training it from scratch.</div>
-    <div>Some tools I use: PyTorch, ONNX, OpenVINO, TensorRT, Linux, Docker, FastAPI/Flask</div>
-    <div>Scenarios I'm familiar with: Classification, Object Detection, Semantic/Instance Segmentation, Optical Character Recognition, Anomaly Classification.</div>
-    <div>Scenarios I've worked but I'm not very familiar with: Image-to-Image Translation, Text Detection, Image Reconstruction.</div>
-    <div>If you want to contact me, email me at <a href="mailto:kasugayui2@gmail.com">kasugayui2@gmail.com</a>.</div>
-  </body>
+<head>
+  <title>Portfolio | Gabriel Dornelles</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url(images/background.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: white;
+      transition: background 1s ease-in-out;
+    }
+    h1 {
+      text-align: center;
+    }
+    h2 {
+      text-align: center;
+    }
+    h3 {
+      text-align: center;
+    }
+    h4 {
+      text-align: center;
+      font-family: sans-serif;
+    }
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .skill {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 0.5em;
+      margin: 0.5em;
+      border-radius: 0.5em;
+    }
+    .rain {
+      position: absolute;
+      z-index: -1;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url(images/rain.gif);
+      background-size: cover;
+      opacity: 0.3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Computer Vision Researcher</h1>
+  <h2>Gabriel Dornelles Monteiro</h2>
+  <h3>Skills</h3>
+  <div class="skills">
+    <div class="skill">PyTorch</div>
+    <div class="skill">ONNX / OpenVino</div>
+    <div class="skill">TensorRT</div>
+    <div class="skill">Linux</div>
+    <div class="skill">Docker</div>
+    <div class="skill">FastAPI / Flask</div>
+    <div class="skill">Git / Github Actions</div>
+  </div>
+
+  <div class="skills">
+    <div class="skill">Classification</div>
+    <div class="skill">Object Detection</div>
+    <div class="skill">Segmentation</div>
+    <div class="skill">Optical Character Recognition</div>
+    <div class="skill">Anomaly Classification</div>
+    <div class="skill">Text Detection</div>
+    <div class="skill">Image Reconstruction</div>
+  </div>
+  <h4>
+    <a href="mailto:gabrieldornellesmonteiro@hotmail.com" style="color:#ffffff;text-decoration:underline;">Contact</a>
+  </h4>
+  <div class="rain"></div>
+</body>
 </html>
+
+      <!-- background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(
+        https://i.pinimg.com/originals/94/0f/98/940f9844bfdbb14e178c86fa9f0860df.jpg),
+         url(https://thumbs.gfycat.com/BrownGregariousGoosefish-max-1mb.gif); -->
+      
