@@ -1,15 +1,11 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: Gabriel Dornelles
+title: Gabriel Dornelles - Blog pessoal
+keywords: blog
 description: >-
-  Ephesus - Minimalist Jekyll Theme
-lang: en-US
-timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
-google_verify:      XXX # Put your Google Verification here
-google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
-discus-identifier:  XXX
+  Gabriel Dornelles - Blog pessoal
+lang: pt-BR
+timezone:  America/Sao_Paulo
 
 # Author settings
 author:
