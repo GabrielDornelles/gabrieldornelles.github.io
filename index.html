@@ -1,84 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Portfolio | Gabriel Dornelles</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url(images/background.jpg);
-      background-repeat: no-repeat;
-      background-size: cover;
-      color: white;
-      transition: background 1s ease-in-out;
-    }
-    h1 {
-      text-align: center;
-    }
-    h2 {
-      text-align: center;
-    }
-    h3 {
-      text-align: center;
-    }
-    h4 {
-      text-align: center;
-      font-family: sans-serif;
-    }
-    .skills {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .skill {
-      background: rgba(255, 255, 255, 0.1);
-      padding: 0.5em;
-      margin: 0.5em;
-      border-radius: 0.5em;
-    }
-    .rain {
-      position: absolute;
-      z-index: -1;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-image: url(images/rain.gif);
-      background-size: cover;
-      opacity: 0.3;
-    }
-  </style>
-</head>
-<body>
-  <h1>Computer Vision Researcher</h1>
-  <h2>Gabriel Dornelles Monteiro</h2>
-  <h3>Skills</h3>
-  <div class="skills">
-    <div class="skill">PyTorch</div>
-    <div class="skill">ONNX / OpenVino</div>
-    <div class="skill">TensorRT</div>
-    <div class="skill">Linux</div>
-    <div class="skill">Docker</div>
-    <div class="skill">FastAPI / Flask</div>
-    <div class="skill">Git / Github Actions</div>
-  </div>
-
-  <div class="skills">
-    <div class="skill">Classification</div>
-    <div class="skill">Object Detection</div>
-    <div class="skill">Segmentation</div>
-    <div class="skill">Optical Character Recognition</div>
-    <div class="skill">Anomaly Classification</div>
-    <div class="skill">Text Detection</div>
-    <div class="skill">Image Reconstruction</div>
-  </div>
-  <h4>
-    <a href="mailto:gabrieldornellesmonteiro@hotmail.com" target="_blank" style="color:#ffffff;text-decoration:underline;">Contact</a>
-  </h4>
-  <div class="rain"></div>
-</body>
-</html>
-
-      <!-- background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(
-        https://i.pinimg.com/originals/94/0f/98/940f9844bfdbb14e178c86fa9f0860df.jpg),
-         url(https://thumbs.gfycat.com/BrownGregariousGoosefish-max-1mb.gif); -->
-      
+---
+layout: default
+---
+<div class="post-container">
+	{% for post in paginator.posts %}
+        <div class="post-list">
+            <a class="post-title" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%d.%m.%Y" }}</time>
+        </div>
+    {% endfor %}
+</div>
+{% include pagination.html %}
