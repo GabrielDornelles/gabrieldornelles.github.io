@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "c2eae6a42de63304",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6a6abaa245e8e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cae9f0230d794168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-28-Fédon-Platão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0840c9fe683be8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "90240c74d637f27d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7168060d3a38aee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "390f2f9115e8bd96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76c9820a1478b848",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eee6383457f4bec1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ecec2286b4bef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce1b495b04349229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-12-28-Fédon-Platão.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "534cc53832e90aa5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-12-28-Fédon-Platão.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a6388c0fc50d6b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf6f748c681c0e7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-12-28-Fédon-Platão.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cae9f0230d794168",
+  "lastOpenFiles": [
+    "Afirmaremos a existencia do justo em si mesmo, do belo em si, do bom em si, ou a negaremos?.md",
+    "2023-12-28-Fédon-Platão.md"
+  ]
+}

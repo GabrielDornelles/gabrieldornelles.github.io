@@ -6,6 +6,7 @@ description: >-
   Gabriel Dornelles - Blog pessoal
 lang: pt-BR
 timezone:  America/Sao_Paulo
+google_analytics: G-PMJCBHY07E
 
 # Author settings
 author:
@@ -21,7 +22,7 @@ author:
 
 
 # URL settings
-url: "https://gabrieldornelles.github.io/" # Domain Name of host. [username].github.io for github pages
+url: "https://gabrieldornelles.github.io" # Domain Name of host. [username].github.io for github pages
 baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
