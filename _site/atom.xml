@@ -4,7 +4,7 @@
  <title>Gabriel Dornelles - Blog pessoal</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-12-29T11:46:15-03:00</updated>
+ <updated>2024-01-04T19:08:49-03:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Gabriel Dornelles</name>
@@ -13,11 +13,12 @@
 
  
  <entry>
-   <title>Fédon Platão</title>
+   <title>Fédon, Platão</title>
    <link href="http://localhost:4000/f%C3%A9don-plat%C3%A3o"/>
    <updated>2023-12-28T00:00:00-03:00</updated>
-   <id>http://localhost:4000/Fédon-Platão</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;“Existe um acordo geral entre os especialistas em colocar este diálogo entre as obras mais tardias de Platão. Por volta dos seus quarenta anos, após regressar a Atenas da sua viagem à Sicília, funda a Academia e escreve o Fédon, o Banquete, A República e o Fedro, aproximadamente por esta ordem. Isto acontece por volta do ano 387 a.C., quando Platão chega nestas obras não somente a elaborar e expressar de maneira cabal as suas próprias ideias filosóficas, mas também chega ao auge do seu estilo e capacidade compositiva.”&lt;/em&gt;.&lt;/p&gt;
+   <id>http://localhost:4000/Fédon,-Platão</id>
+   <content type="html">
+&lt;p&gt;&lt;em&gt;“Existe um acordo geral entre os especialistas em colocar este diálogo entre as obras mais tardias de Platão. Por volta dos seus quarenta anos, após regressar a Atenas da sua viagem à Sicília, funda a Academia e escreve o Fédon, o Banquete, A República e o Fedro, aproximadamente por esta ordem. Isto acontece por volta do ano 387 a.C., quando Platão chega nestas obras não somente a elaborar e expressar de maneira cabal as suas próprias ideias filosóficas, mas também chega ao auge do seu estilo e capacidade compositiva.”&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/a_morte_de_socrates.png&quot; alt=&quot;A morte de Sócrates&quot; /&gt;&lt;/p&gt;
 
@@ -30,10 +31,10 @@ Alguns críticos dizem que podemos reparar como toda ação parte de Platão, ma
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
-&lt;p&gt;Fédon é um dialogo escrito por Platão onde é narrado os últimos momentos de seu mestre Sócrates, após ser condenado pelo tribunal de Atenas por corromper os jovens e não acreditar nos mesmos deuses que a cidade.
+&lt;p&gt;Fédon é um diálogo escrito por Platão onde é narrado os últimos momentos de seu mestre Sócrates, após ser condenado pelo tribunal de Atenas por corromper os jovens e não acreditar nos mesmos deuses que a cidade.
 O diálogo se passa após a morte de Sócrates, e é narrado por Fédon à Equécrates. 
-Fédon e vários outros discípulos de Sócrates foram o visitar na prisão, e ali todos encaram tristes e desolados o fim que terá a vida de Sócrates. Sócrates porém, está feliz e não demonstrara nenhuma intenção de fugir, se exilar ou aceitar que pagassem em dinheiro para que sua pena não fosse cumprida. 
-Ao ser questionado em como podia ele não temer a morte ou mesmo aceita-la de braços abertos sem nenhum remorso. Sócrates então inicia a sua última lição:&lt;/p&gt;
+Fédon e vários outros discípulos de Sócrates foram o visitar na prisão, e ali todos encaram tristes e desolados o fim que terá a vida de Sócrates. Sócrates porém, está feliz e não demonstrara nenhuma intenção de fugir, se exilar ou aceitar que pagassem em dinheiro para que sua pena não fosse aplicada. 
+Ao ser questionado em como podia ele não temer a morte, ou mesmo como podia ele aceita-la de braços abertos sem nenhum remorso. Sócrates então inicia a sua última lição:&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;“Não se deve temer a morte, e sim abraça-la&lt;/em&gt;”.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -43,7 +44,7 @@ Ao ser questionado em como podia ele não temer a morte ou mesmo aceita-la de br
 &lt;p&gt;Em um tom de humor, Sócrates agora está frente a mais um julgamento. No primeiro, foi incapaz de convencer os juízes a respeito de sua inocência, e neste, deve convencer aos seus discípulos a respeito da &lt;strong&gt;imortalidade da alma&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Sócrates afirma que aquele que se dedicou verdadeiramente a filosofia tem como sua única ocupação preparar-se para morrer. E por isso, não faria sentido algum se o mesmo estivesse  irritado ou preocupado com a sua morte.
-Sócrates e seus discípulos concordam em um ponto: A morte é dita a separação da alma e do corpo.&lt;/p&gt;
+Seus discípulos não entendem inicialmente, porém Sócrates e seus discípulos concordam em um ponto: A morte é dita a separação da alma e do corpo.&lt;/p&gt;
 
 &lt;p&gt;Inicia-se então um processo de dialética:&lt;/p&gt;
 
@@ -59,7 +60,7 @@ Sócrates e seus discípulos concordam em um ponto: A morte é dita a separaçã
 &lt;p&gt;Ou seja, as preocupações de tal homem não se dirigem ao corpo, para o que diz respeito ao corpo, mas ao contrario, a medida em que lhe é possível se afastam do corpo, e é para a alma que estão voltadas? 
 	Sem dúvida.&lt;/p&gt;
 
-&lt;p&gt;O filosofo é então aquele que ao contrario de todos os homens, afasta tanto quanto pode a alma do contato com o corpo.&lt;/p&gt;
+&lt;p&gt;O filosofo é então aquele que ao contrário de todos os homens, afasta tanto quanto pode a alma do contato com o corpo.&lt;/p&gt;
 
 &lt;p&gt;Dito isto, um questionamento/afirmação é feito por Sócrates:&lt;/p&gt;
 
@@ -68,6 +69,7 @@ Quando é pois que a alma atinge a verdade? Quando ela quer investigar e faz uso
 É então no ato de raciocinar e de nenhum outro modo, que a alma apreende em parte a realidade de um ser. E sem duvida ela raciocina melhor quando sem o empecilho do ouvido, da vista, de um sofrimento ou de um prazer. 
 Raciocina melhor quando isolada e abandona o corpo a sua sorte. Quando rompe tanto quanto é possível com o corpo, anseia pelo real.
 É nessa ocasião então, que a alma do filosofo alcança o seu ponto mais alto, quando desdenha do corpo e foge.&lt;/p&gt;
+&lt;h2 id=&quot;a-realidade-em-si-mesma&quot;&gt;A Realidade em si mesma&lt;/h2&gt;
 
 &lt;p&gt;Sócrates então continua:&lt;/p&gt;
 
@@ -75,49 +77,44 @@ Raciocina melhor quando isolada e abandona o corpo a sua sorte. Quando rompe tan
 
 &lt;p&gt;Mas é certo que jamais viste qualquer ser deste gênero com os olhos? Jamais.&lt;/p&gt;
 
-&lt;p&gt;Se não é pelo corpo que podemos observar estas entidades eternas, é certo que aquele de nós que estiver no mais alto ponto preparado para pensar em si mesmo cada uma dessas entidades obteria a maior pureza acerca destes seres. O fará quando realiza o ato de raciocinar sem recorrer a vista ou aos ouvidos, libertando-se do corpo inteiro, que perturba a alma e não a deixa aprender a verdade. Este homem é quem alcançará o real verdadeiro.
-…&lt;/p&gt;
+&lt;p&gt;Se não é pelo corpo que podemos observar estas entidades eternas, é certo que aquele de nós que estiver no mais alto ponto preparado para pensar em si mesmo cada uma dessas entidades obteria a maior pureza acerca destes seres. O fará quando realiza o ato de raciocinar sem recorrer a vista ou aos ouvidos, libertando-se do corpo inteiro, que perturba a alma e não a deixa aprender a verdade. Este homem é quem alcançará o real verdadeiro.&lt;/p&gt;
 
-&lt;p&gt;Uma coisa seus discípulos concordam, que a alma existe antes de fazer parte de um corpo, porém não estão convencidos de que a mesma continue a existir após a morte do corpo.&lt;/p&gt;
+&lt;p&gt;Sócrates propõe que os vivos nascem dos mortos, pois as almas dos defuntos estão no Hades, e através de sua dialética faz com que concordem com ele. Este dialogo é extenso e profundo, de maneira que introduz as noções de quais os processos ocorrem após a morte no Hades, os rios que Sócrates batiza (sendo maior parte deles no Hades), tudo para culminar em um conceito geral da imortalidade da alma e o que é o conhecimento.&lt;/p&gt;
+
+&lt;p&gt;Nesta obra Platão nos introduz o conceito de:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Aprender não é outra coisa se não recordar.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Para haver recordação de algo deve-se primeiro saber este algo. E Platão também argumenta que o ponto de partida de uma recordação pode ser um semelhante ou também um dessemelhante, uma vez que por exemplo, ao vermos a roupa de um falecido, lembramos do falecido, e a roupa e o homem não são semelhantes. E considerando o caso em que o semelhante nos serve de ponto de partida de uma recordação qualquer, somos forçosamente levados a pensar algo como: “Falta ou não alguma coisa ao objeto considerado, em sua semelhança com aquilo que nos recordamos?”. 
+A partir disso, Platão sugere que existe o Igual em si, isto é, não a igualdade entre um pedaço de pau ou outro, nem de uma pedra a outra pedra, mas uma coisa que comparada a tudo isso, se distingue, o Igual em si mesmo (creio que Platão aqui se refere que tanto o igual em si mesmo é diferente de todos eles por se tratar do conceito no mundo das Ideias, quanto o fato de que Igual em si mesmo é somente igual a si mesmo, e por isso nada seria semelhante a ele).&lt;/p&gt;
+
+&lt;p&gt;Em uma outra passagem, novamente somos levados a ideia de que aquilo que conhecemos nada mais é do que uma sombra ou reflexo do verdadeiro.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Ao vermos um objeto dizemos “Este objeto que estou vendo tem tendência para se assemelhar a um outro ser, mas, por ter defeitos, não consegue ser tal como o ser em questão, e lhe é pelo contrário, inferior.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Platão argumenta que em algum momento devemos ter conhecido o Igual em si mesmo (que nossa alma em algum momento o conheceu), e que dessa maneira, nossa alma uma vez fez parte do mundo das Ideias/Formas, e lá ela conheceu o Belo, o Justo o Piedoso e tudo mais que é a Realidade em si.&lt;/p&gt;
+
+&lt;p&gt;Na teoria da reminiscência, Platão argumenta que o conhecimento não é adquirido por meio da experiência sensorial ou da observação do mundo material (como discutido acima), mas é inato na mente da alma. Segundo Platão, antes de encarnarmos nesta vida, nossas almas existiam no “mundo das Ideias” ou “mundo das Formas” (Eidos), onde tinham acesso ao conhecimento perfeito e eterno. Quando nascemos, nossa alma esquece esse conhecimento, mas o ato de aprender é, na verdade, um processo de recordar ou relembrar aquilo que já sabemos. Portanto, a aprendizagem é vista como uma forma de resgate da verdade interior que já está presente em nossa alma.&lt;/p&gt;
+
+&lt;p&gt;No resto do diálogo, o personagem Sócrates continua a convencer seus discípulos de que a alma é imortal, através do seu exemplo dos contrários, o que para mim pessoalmente não foi uma prova de fato através da dialética como em tantos outros momentos da escrita de Platão, mas apenas um recurso poético do mesmo ao comparar o par e ímpar, a vida e a morte, a alma e o corpo, e assim dizendo que a alma não aceitaria o contrário do que traz consigo, e logo ela foge da morte como o ímpar foge do par ao somarmos uma unidade.&lt;/p&gt;
+
+&lt;p&gt;Em Fédon, é exposta a visão de Platão sobre a natureza do conhecimento, da alma e da realidade.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;¹ Platão volta um passo para admitir que os participantes do diálogo concordam com uma de suas máximas, as Formas/Ideias (Eîdos), o conceito de que o mundo que percebemos através dos nossos sentidos é apenas uma sombra ou imitação imperfeita das Formas verdadeiras, formas que só podem ser aprendidas pela razão. Sendo assim, Platão cria os conceitos de “o justo em si mesmo” ou “o belo em si mesmo” referenciando a Forma eterna e divina do Justo e do Belo, que estão além do mundo físico.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-reminiscência&quot;&gt;A reminiscência&lt;/h2&gt;
-
-&lt;h2 id=&quot;a-purificação&quot;&gt;A purificação&lt;/h2&gt;
-
-&lt;h2 id=&quot;a-sobrevivência-da-alma&quot;&gt;A sobrevivência da Alma&lt;/h2&gt;
-
-&lt;h2 id=&quot;os-contrários&quot;&gt;Os contrários&lt;/h2&gt;
-
-&lt;h2 id=&quot;a-reminiscência-1&quot;&gt;A reminiscência&lt;/h2&gt;
-
-&lt;h2 id=&quot;o-destino-das-almas&quot;&gt;O destino das almas&lt;/h2&gt;
-
-&lt;h2 id=&quot;a-função-da-filosofia&quot;&gt;A função da Filosofia&lt;/h2&gt;
-
-&lt;h2 id=&quot;resposta-a-símias&quot;&gt;Resposta a Símias&lt;/h2&gt;
-
-&lt;h2 id=&quot;resposta-a-cebes&quot;&gt;Resposta a Cebes&lt;/h2&gt;
-
-&lt;h2 id=&quot;o-problema-da-física&quot;&gt;O problema da Física&lt;/h2&gt;
-
-&lt;h2 id=&quot;a-ideia&quot;&gt;A ideia&lt;/h2&gt;
-
-&lt;h2 id=&quot;o-problema-dos-contrários-e-as-ideias&quot;&gt;O problema dos contrários e as Ideias&lt;/h2&gt;
-
-&lt;h2 id=&quot;mito-do-destino-das-almas&quot;&gt;Mito do destino das almas&lt;/h2&gt;
-
-&lt;h2 id=&quot;epílogo&quot;&gt;Epílogo&lt;/h2&gt;
 
 </content>
  </entry>
  
  <entry>
-   <title>A República Platão</title>
+   <title>A República,  Platão</title>
    <link href="http://localhost:4000/a-rep%C3%BAblica-plat%C3%A3o"/>
    <updated>2023-12-28T00:00:00-03:00</updated>
-   <id>http://localhost:4000/A-República-Platão</id>
+   <id>http://localhost:4000/A-República, -Platão</id>
    <content type="html">&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
 &lt;hr /&gt;
 &lt;p&gt;Composto de 10 livros, A República de Platão é a minha primeira leitura de filosofia como um homem adulto (hoje com 22 anos de idade), tendo lido anteriormente somente Assim falou Zaratustra de Nietzsche ainda adolescente com meus 17 anos (e que julgo hoje, com baixíssima compreensão, especialmente quando falamos de ler tal autor sem diversas leituras prévias). Uma obra extremamente rica onde Platão discute diversos temas em um longo diálogo, diálogos estes guiados a uma proposta central: 
