@@ -63,7 +63,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-    comments: true
   -
     scope:
       path: ""
