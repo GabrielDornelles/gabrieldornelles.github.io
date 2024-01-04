@@ -7,6 +7,7 @@ description: >-
 lang: pt-BR
 timezone:  America/Sao_Paulo
 google_analytics: G-PMJCBHY07E
+# discus-identifier:  XXX
 
 # Author settings
 author:
@@ -62,6 +63,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+    comments: true
   -
     scope:
       path: ""
