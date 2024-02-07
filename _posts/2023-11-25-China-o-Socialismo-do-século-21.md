@@ -1,6 +1,11 @@
+---
+tags:
+  - Sociologia
+  - Socialismo
+  - China
+---
 
-
-## Passagens aleatorias para refletir
+## Passagens aleatórias para refletir
 
 No capitalismo de estado, a discussão é a essencial separação entre poder político e econômico. Enquanto no Capitalismo, pressupoe-se o exercicio do poder político por parte dos donos privados dos meios de produção, ou seja, no final das contas, política e economia são um único organismo, e não são separaveis.
 O conceito de capitalismo de estado em si é contraditorio ...

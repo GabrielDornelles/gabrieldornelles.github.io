@@ -2,7 +2,6 @@
 tags:
   - Filosofia
   - Platão
-  - Grécia-antiga
 cssclases:
 ---
 ## Introdução
@@ -89,4 +88,4 @@ Trasímaco argumenta então que para exprimir seus pensamentos com toda exatidã
 
 ---
 
-No momento estou terminando de ler a obra de Platão (A República, Eutífron, Apologia de Sócrates, Críton e Fédon, faltando O banquete), e após termina-la, devo voltar a refletir com melhores olhos a respeito de A República.
+Retomarei a escrita dos próximos livros (2-10)de maneira mais resumida, do contrário levaria anos para escrever uma boa analise da obra de Platão. Este foi meu primeiro modelo de blog, mas percebi rapidamente que é um tanto inviável fazer análises neste nível de profundidade a respeito das obras que leio.

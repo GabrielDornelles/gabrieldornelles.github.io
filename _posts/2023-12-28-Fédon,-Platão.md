@@ -1,3 +1,8 @@
+---
+tags:
+  - Filosofia
+  - Platão
+---
 
 *"Existe um acordo geral entre os especialistas em colocar este diálogo entre as obras mais tardias de Platão. Por volta dos seus quarenta anos, após regressar a Atenas da sua viagem à Sicília, funda a Academia e escreve o Fédon, o Banquete, A República e o Fedro, aproximadamente por esta ordem. Isto acontece por volta do ano 387 a.C., quando Platão chega nestas obras não somente a elaborar e expressar de maneira cabal as suas próprias ideias filosóficas, mas também chega ao auge do seu estilo e capacidade compositiva."*.
 
