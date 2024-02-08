@@ -2,14 +2,7 @@
 tags:
   - Software
   - Deep-Learning
-  - AI
-
-math: true
-mermaid: true
-image:
-   path: /assets/images/dog_caption.jpg
-   
-   
+  - AI   
 ---
 
 
