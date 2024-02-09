@@ -530,14 +530,13 @@ if __name__ == "__main__":
 ## Resultados
 Finalmente chegamos ao resultado! Pedi a alguns amigos que me enviassem algumas imagens gerais de cachorros ou cenas que envolvam veículos e pessoas (escopo abordado no treinamento). Abaixo trago alguns resultados do modelo:
 
-transformer_inferences
-![Transformer Inferences](/assets/images/transformer_infereces.jpg)
+![Transformer Inferences](/assets/images/transformer_inferences.jpg)
 
-Sem sombra de dúvida há muito espaço para melhorias, mas nosso modelo possui apenas um módulo de Patch Embeddings (não há redes convolucionais profundas!) e um pequenino Transformer com um pequenino vocabulário! Nosso modelo ocupa apenas 20mbs em disco, uma resnet18 extremamente simples ocupa 44!
+Há **muito** espaço para melhorias. Nosso modelo possui apenas um módulo de Patch Embeddings (não há redes convolucionais profundas!) e um pequenino Transformer com um pequenino vocabulário! Nosso modelo ocupa apenas 20mbs em disco, uma resnet18 extremamente simples ocupa 44!
 
 Espero que este documento tenha lhe sido útil, e que possa ter lhe esclarecido o quão simples as coisas podem ser no final das contas. 
 
-O que mais me admira nisso tudo é a quantidade de coisas fascinantes que emergem de sistemas tão simples e treinados de uma maneira tão rudimentar quando comparados a versão biológica dos organismos vivos que conhecemos, sem sombra de dúvida há muita beleza na simplicidade. 
+O que mais me admira é a quantidade de coisas fascinantes que emergem de sistemas tão simples e treinados de uma maneira tão rudimentar quando comparados a versão biológica dos organismos vivos que conhecemos. Sem sombra de dúvida há muita beleza na simplicidade. 
 
 Afinal, talvez tudo seja simples dado tempo suficiente para compreendermos.
 
