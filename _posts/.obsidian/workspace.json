@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8a4080e30a6830b8",
@@ -148,6 +148,7 @@
   },
   "active": "836ad783f6adc88b",
   "lastOpenFiles": [
+    "transformer_results.jpg",
     "2024-01-16-Is open source the modern-Plato's Aristocracy?.md",
     "2024-02-07-Uma-introdução-ao-deep-learning-em-2024.md",
     "2023-12-28-Fédon,-Platão.md",
